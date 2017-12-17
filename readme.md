@@ -8,7 +8,10 @@ Write a design document where you explain your project. You should clearly expla
 *Which broader field(s) does this site apply to?*
 
 ## Problem
-*What is the problem you're trying to solve?*
+*The U.S. Census Bureau reported that 11.4 million married-couple households, or 21 percent of all married-couple households in America in 2011, had at least one spouse born in another country. The number of international couples in a globalized 21st century is constantly raising.
+21 century is a very fast-paced time. Everyone is busy. It’s hard to spare time for anything “extra”. Foreign language learning is a clear “extra”. It takes enormous amount of dedication to spare time and energy for that activity. That’s why language learning apps are so popular comparing to traditional face to face learning environments - the provide users with flexibility to learn language at the most convenient time and pace. But there are unfortunately no apps that allow to learn a language with a partner. It is usually the user and the program. When the initial motivation and excitement wear off people stop using language learning apps, because there’s noone to hold them accountable.
+The research shows that if a couple takes on a certain activity together they are more likely to be more persistent/successful, so we suggest adding a language component into people’s daily digital behaviour - like messaging.
+*
 
 ## Target Audience
 *Who is your target audience? Describe in detail*
